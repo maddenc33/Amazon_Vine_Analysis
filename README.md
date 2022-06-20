@@ -22,4 +22,4 @@ Determine if there is any bias towards reviews that were written as part of the 
   - 37.4%
 
 ## Summary
-There is a huge bias in the data set I chose, which was reviews for digital video games.  In my data set there were no vine reviews at all!  In order to perform an additional analysis on the data set, we should choose a different data set.  I have succeeded in proving that this data set of reviews will not provide us with the information we are looking for.
+There is no way of determining whether a bias exists in the data set I chose, Amazon reviews for digital video games.  In my data set there were no vine reviews at all!  We cannot perform any additional analysis on this data set with regards to comparing Vine and non-Vine reviews.  I have succeeded in proving that this data set of reviews will not provide us with the information we are looking for, which is often the case in analytics.
