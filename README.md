@@ -25,6 +25,10 @@ This is a portfolio project completed as part of my Data Analytics Certificate p
 
 ---
 
+![Workflow & Architecture](Images/Diagrams.png)
+
+---
+
 ## Pipeline Overview
 
 ### Step 1 — ETL: Extract, Transform, Load
